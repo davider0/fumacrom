@@ -1,6 +1,6 @@
-# 🛠️ Hytale Plugin Template
+# 🛠️ Fumacrom Hytale Modpack Plug-in
 
-Welcome to the **Hytale Plugin Template**! This project is a pre-configured foundation for building **Java Plugins**. It streamlines the development process by handling classpath setup, server execution, and asset bundling.
+Welcome to the **FFumacrom**! This project is a pre-configured foundation for building **Java Plugins**. It streamlines the development process by handling classpath setup, server execution, and asset bundling.
 
 > **⚠️ Early Access Warning**
 > Hytale is currently in Early Access. Features, APIs, and this template are subject to frequent changes. Please ensure you are using the latest version of the template for the best experience.
