@@ -1,4 +1,4 @@
-# 🛠️ Fumacrom Hytale Modpack Plug-in
+# 🛠️ Fumonomicon Hytale Modpack
 
 Welcome to the **FFumacrom**! This project is a pre-configured foundation for building **Java Plugins**. It streamlines the development process by handling classpath setup, server execution, and asset bundling.
 
