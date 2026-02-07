@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\David\\visualstudio\\hytalefumacrom\\hytale-template-plugin\\build\\classes\\java\\main;C:\\Users\\David\\visualstudio\\hytalefumacrom\\hytale-template-plugin\\build\\resources\\main;C:\\Users\\David\\visualstudio\\hytalefumacrom\\hytale-template-plugin\\libs\\HytaleServer.jar'
+-quiet 
+-d 'C:\\Users\\David\\visualstudio\\hytalefumacrom\\hytale-template-plugin\\build\\docs\\javadoc'
+-windowtitle 'ExamplePlugin 0.0.2 API'
+-doctitle 'ExamplePlugin 0.0.2 API'
+-notimestamp 
+-Xdoclint:-missing '-quiet'
+'C:\\Users\\David\\visualstudio\\hytalefumacrom\\hytale-template-plugin\\src\\main\\java\\org\\fumonomicon\\plugin\\FumonomiconPlugin.java'
+'C:\\Users\\David\\visualstudio\\hytalefumacrom\\hytale-template-plugin\\src\\main\\java\\org\\fumonomicon\\plugin\\HelpCommand.java'

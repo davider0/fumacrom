@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.fumonomicon.plugin","l":"FumonomiconPlugin"},{"p":"org.fumonomicon.plugin","l":"HelpCommand"}];updateSearchResults();

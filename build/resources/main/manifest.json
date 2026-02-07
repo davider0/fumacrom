@@ -1,0 +1,22 @@
+{
+    "Group": "Fumonomicon",
+    "Name": "FumonomiconPlugin",
+    "Version": "0.0.2",
+    "Description": "A plugin for HyTale that adds a help command.",
+    "Authors": [
+        {
+            "Name": "It's you!"
+        }
+    ],
+    "Website": "example.org",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "org.fumonomicon.plugin.FumonomiconPlugin",
+    "IncludesAssetPack": true
+}
